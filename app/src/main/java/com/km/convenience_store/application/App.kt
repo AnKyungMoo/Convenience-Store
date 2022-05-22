@@ -1,4 +1,4 @@
-package com.km.convenience_store
+package com.km.convenience_store.application
 
 import android.app.Application
 import dagger.hilt.android.HiltAndroidApp
